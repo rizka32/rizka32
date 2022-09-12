@@ -1,6 +1,6 @@
-### Hi there 👋
+ 
 
-## Hi there
+## Hi there 👋
  ![Sing Ndelok](https://komarev.com/ghpvc/?username=rizka32&color=green)
 
 ### 👤 About Me
