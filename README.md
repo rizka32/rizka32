@@ -5,7 +5,7 @@
 
 ### 👤 About Me
 * Web Scraping Enthusiast
-* 🤷‍♂️ 19 y.o ordinary boy interested in Back End and Front-End Development
+* 🤷‍♂️ 19 y.o ordinary boy interested in Back End Development
 * 🏠 Live at Batang, Indonesia 
 
 ### 📊 Github Stats
