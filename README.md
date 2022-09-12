@@ -4,7 +4,7 @@
  ![Sing Ndelok](https://komarev.com/ghpvc/?username=rizka32&color=green)
 
 ### 👤 About Me
-* Web Scraping Enthusiast
+* Web Scraping, NodeJS Enthusiast
 * 🤷‍♂️ 19 y.o ordinary boy interested in Back End Development
 * 🏠 Live at Batang, Indonesia 
 
